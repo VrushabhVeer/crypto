@@ -1,0 +1,112 @@
+{
+    "icecreams": [
+        {
+            "id": 1,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Chocolate%20Addiction.jpg?itok=HgzH4a1b",
+            "name": "DARK CHOCOLATE",
+            "Flavor": "Chocolate",
+            "Description": "Rich, creamy chocolate ice cream. CHOCOLATE ADDICTION For all the chocolate lovers in the house. The Chocolate Addiction Sundae will fulfill all your desires for something sweet, bitter and nutty. Try this amazing dessert today and thank us later!",
+            "Price": 350,
+            "Stock": 10
+        },
+        {
+            "id": 2,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Fruity%20Affair.jpg?itok=quTbe1DM",
+            "name": "FRUITY AFFAIR",
+            "Flavor": "fruity",
+            "Description": "FRUITY AFFAIR yummy treat for the whole family! Two scoops of flavoured ice cream topped with tropical fruit bites, sprinkles, syrups and wafer biscuit. Get a burst of different flavours and textures in every bite.",
+            "Price": 200,
+            "Stock": 15
+        },
+        {
+            "id": 3,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Strawberry%20Stunner.jpg?itok=6POtk8ka",
+            "name": "TRAWBERRY STUNNER",
+            "Flavor": "Strawberry",
+            "Description": "Creamy, dreamy and full of flavour! Ice cream packed with the flavour of fresh strawberries, served in a waffle cone and topped with a waffle biscuit, fresh cream and nuts. Treat your senses to a delightful experience with the Strawberry Stunner.",
+            "Price": 300,
+            "Stock": 8
+        },
+        {
+            "id": 4,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Mango%20Twist.jpg?itok=LOL11NFA",
+            "name": "MANGO TWIST",
+            "Flavor": "mango",
+            "Description": "The king of desserts featuring the king of fruits. Everyone’s favourite tropical fruit, the mango, gets an exquisite glow in the Mango Twist",
+            "Price": 420,
+            "Stock": 10
+        },
+        {
+            "id": 5,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Mango%20Sundae%20Cup%20%2875ml%29_0.webp?itok=pcvSyHYd",
+            "name": "MANGO SUNDAE",
+            "Flavor": "mango",
+            "Description": "Classic mango ice cream.Feel the delight in every bite, You can never go wrong with this timeless classic mango!",
+            "Price": 260,
+            "Stock": 15
+        },
+        {
+            "id": 6,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Butter%20Scotch%2090%20ml%20cup.webp?itok=NguSLROF",
+            "name": "BUTTER SCOTCH",
+            "Flavor": "Butter Scotch",
+            "Description": "A little milky with a twist of Chikki! This sums up the classic Butter Scotch Ice Cream. Feel the delight in every bite.",
+            "Price": 260,
+            "Stock": 8
+        },
+        {
+            "id": 7,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Belgian%20Sensation.jpg?itok=1_lWe09Q",
+            "name": "BELGIAN SENSATION",
+            "Flavor": "Chocolate",
+            "Description": "You can never go wrong with this timeless classic! Belgian chocolate ice cream served in a waffle cone, with a sprinkling of your favourite toppings. Loved by everyone in the family.",
+            "Price": 650,
+            "Stock": 10
+        },
+        {
+            "id": 8,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Kaju%20Draksh%2090%20ml_0.webp?itok=cHXVMmC2",
+            "name": "VANILLA KAJU",
+            "Flavor": "Vanilla",
+            "Description": "You don’t need a festival to enjoy the flavour of Cashew Nuts! Indulge in some rich flavours with Havmor Kaju Draksh. This traditional Ice Cream will surely have your guests impressed.",
+            "Price": 340,
+            "Stock": 15
+        },
+        {
+            "id": 9,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Strawberry%20Sundae%20Cup%20%2875ml%29_0.webp?itok=4-AGegDX",
+            "name": "STRAWBERRY SUNDAE",
+            "Flavor": "Strawberry",
+            "Description": "Fresh and fruity strawberry ice cream. Who doesn’t like the classic Sundae? Every bite of Havmor Strawberry Sundae is a masterpiece in itself.",
+            "Price": 370,
+            "Stock": 8
+        },
+        {
+            "id": 10,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Cookie%20Cream%2075ml.webp?itok=AVp-TMt-",
+            "name": "CHOCOLATE COOKIE CREAM",
+            "Flavor": "Chocolate",
+            "Description": "Make your day a little exciting with the crunch of Cookie Cream Ice Cream! Coated with dark chocolate covering and cookies chunks, this one is all you need after a long and tiring day!",
+            "Price": 288,
+            "Stock": 10
+        },
+        {
+            "id": 11,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Choco%20Vanilla_0.webp?itok=7JCWx_ug",
+            "name": "CHOCO VANILLA",
+            "Flavor": "Vanilla",
+            "Description": "The classic combination of Chocolate and Vanilla, made better with a Wafer Biscuit Cone. That sounds like a dream come true! Who doesn’t like to enjoy the best of both worlds?",
+            "Price": 220,
+            "Stock": 15
+        },
+        {
+            "id": 12,
+            "img": "https://www.havmor.com/sites/default/files/styles/502x375/public/gallery/Berry%20Magic.jpg?itok=F5204ROY",
+            "name": "STRAWBERRY MAGIC",
+            "Flavor": "Strawberry",
+            "Description": "For a refreshing summer dessert, we recommend the Berry Magic Waffle Sundae. It’s got the luscious combination of strawberries, blueberries and cranberries all scooped together on a waffle. Fresh cream, syrup and literal cherries on top make this sundae even more delightful!",
+            "Price": 520,
+            "Stock": 8
+        }
+    ]
+}
