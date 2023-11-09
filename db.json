@@ -1,5 +1,5 @@
 {
-    "products":[
+    "products": [
         {
             "id": 1,
             "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8313850119e64527bb94ae4b013be119_9366/BSC_3-Stripes_Insulated_Jacket_Green_HG6273_21_model.jpg",
@@ -98,14 +98,14 @@
         },
         {
             "id": 9,
-            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/64e122968a7d4518a965ad9a00d58684_9366/Adicolor_Oversize_Hoodie_Burgundy_HC7102_21_model.jpg",
-            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ddf7edb3d1e347d69a64ad9a00d594ee_9366/Adicolor_Oversize_Hoodie_Burgundy_HC7102_23_hover_model.jpg",
-            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e027083be24c4307a36cad9a00d5a463_9366/Adicolor_Oversize_Hoodie_Burgundy_HC7102_25_model.jpg",
-            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb9d12e618d34980b56aad9a00d5b96d_9366/Adicolor_Oversize_Hoodie_Burgundy_HC7102_41_detail.jpg",
-            "name": "ADICOLOR OVERSIZE HOODIE",
+            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/18afef00f75b45edbbe2ad8f00a9a844_9366/Adicolor_Essentials_Tights_Black_HD2352_21_model.jpg",
+            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/673a0b8b1f7d4eff8209ad8f00a9b5ad_9366/Adicolor_Essentials_Tights_Black_HD2352_22_model.jpg",
+            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1b11b9269b244dcbbe58ad8f00a9c1f8_9366/Adicolor_Essentials_Tights_Black_HD2352_23_hover_model.jpg",
+            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/710308238bd349919adfad8f00a9d0d9_9366/Adicolor_Essentials_Tights_Black_HD2352_25_model.jpg",
+            "name": "ADICOLOR ESSENTIALS TIGHTS",
             "type": "Womens",
-            "category": "HOODIE",
-            "price": 4700,
+            "category": "TIGHTS",
+            "price": 2599,
             "rating": "★★★★"
         }
     ]
