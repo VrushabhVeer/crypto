@@ -111,20 +111,6 @@
             "offer_price": 2999,
             "rating": "★★★★",
             "off":"20%"
-        },
-        {
-            "id": 9,
-            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7a53dd87f7f44d5aaa1cadaa011944e7_9366/SPORT_INSPIRED_LOUNGEWEAR_ESSENTIALS_HIGH-WAISTED_LOGO_LEGGINGS_Grey_HD1770_21_model.jpg",
-            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/613a7461d1f5439680b9adaa011956a5_9366/SPORT_INSPIRED_LOUNGEWEAR_ESSENTIALS_HIGH-WAISTED_LOGO_LEGGINGS_Grey_HD1770_23_hover_model.jpg",
-            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b239cc9573848eb8ffeadaa01196a61_9366/SPORT_INSPIRED_LOUNGEWEAR_ESSENTIALS_HIGH-WAISTED_LOGO_LEGGINGS_Grey_HD1770_25_model.jpg",
-            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e5cf0b4fab5e49ee9d39adaa01198e79_9366/SPORT_INSPIRED_LOUNGEWEAR_ESSENTIALS_HIGH-WAISTED_LOGO_LEGGINGS_Grey_HD1770_41_detail.jpg",
-            "name": "Sport Leggings",
-            "type": "Womens",
-            "category": "LEGGINGS",
-            "price": 1699,
-            "offer_price": 2999,
-            "rating": "★★★★",
-            "off":"25%"
         }
     ]
 }
