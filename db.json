@@ -10,6 +10,7 @@
             "type": "Mens",
             "category": "JACKET",
             "price": 6999,
+            "offer_price": 8999,
             "rating": "★★★★"
         },
         {
@@ -22,6 +23,7 @@
             "type": "Womens",
             "category": "TEE",
             "price": 899,
+            "offer_price": 1599,
             "rating": "★★★★"
         },
         {
@@ -30,10 +32,11 @@
             "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b3673cc5a5764071918fae1a00d9e25e_9366/Disney_Mickey_and_Friends_Hoodie_Black_HF4931_22_model.jpg",
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0d7542a7a7eb4de6841aae1a00d9ec25_9366/Disney_Mickey_and_Friends_Hoodie_Black_HF4931_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/43fc6736328b4126a6edae1a00da2973_9366/Disney_Mickey_and_Friends_Hoodie_Black_HF4931_01_laydown.jpg",
-            "name": "DISNEY MICKEY AND FRIENDS HOODIE",
+            "name": "MICKEY AND FRIENDS HOODIE",
             "type": "Mens",
             "category": "HOODIE",
             "price": 4899,
+            "offer_price": 7999,
             "rating": "★★★★"
         },
         {
@@ -42,10 +45,11 @@
             "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d9b1c77e5d594bf2a43aae15011fd544_9366/adidas_SPRT_Summer_Tee_White_HE4717_22_model.jpg",
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/746df1e7075047128646ae15011fdd09_9366/adidas_SPRT_Summer_Tee_White_HE4717_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1381b9fb1a6641aa9a28ae1501200fdc_9366/adidas_SPRT_Summer_Tee_White_HE4717_01_laydown.jpg",
-            "name": "ADIDAS SPRT SUMMER TEE",
+            "name": "SUMMER TEE",
             "type": "Mens",
             "category": "TEE",
             "price": 1799,
+            "offer_price": 2999,
             "rating": "★★★★★"
         },
         {
@@ -54,10 +58,11 @@
             "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/81a4f2af141a464389baaddd0140bafc_9366/adidas_x_Karlie_Kloss_Seamless_Knit_Layered_Top_Grey_HB1429_22_model.jpg",
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9753a6547474bd6bb23addd0140cbb5_9366/adidas_x_Karlie_Kloss_Seamless_Knit_Layered_Top_Grey_HB1429_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/123a803a94984f689edbaddd014109ef_9366/adidas_x_Karlie_Kloss_Seamless_Knit_Layered_Top_Grey_HB1429_01_laydown.jpg",
-            "name": "ADIDAS X KARLIE KLOSS SEAMLESS KNIT LAYERED TOP",
+            "name": "KLOSS SEAMLESS KNIT LAYERED TOP",
             "type": "Womens",
             "category": "TOP",
             "price": 1799,
+            "offer_price": 3999,
             "rating": "★★★★"
         },
         {
@@ -70,6 +75,7 @@
             "type": "Mens",
             "category": "HOODIE",
             "price": 3399,
+            "offer_price": 5999,
             "rating": "★★★★"
         },
         {
@@ -82,6 +88,7 @@
             "type": "Womens",
             "category": "JACKET",
             "price": 5799,
+            "offer_price": 7999,
             "rating": "★★★★"
         },
         {
@@ -94,6 +101,7 @@
             "type": "Mens",
             "category": "SHORTS",
             "price": 1999,
+            "offer_price": 2999,
             "rating": "★★★★"
         },
         {
@@ -106,6 +114,7 @@
             "type": "Womens",
             "category": "TIGHTS",
             "price": 2599,
+            "offer_price": 4999,
             "rating": "★★★★"
         }
     ]
